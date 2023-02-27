@@ -13,10 +13,5 @@
         <operation>equals</operation>
         <value>LAST_WEEK</value>
     </filters>
-    <filters>
-        <field>Active__c</field>
-        <operation>equals</operation>
-        <value>Yes</value>
-    </filters>
     <label>New Last Week</label>
 </ListView>
